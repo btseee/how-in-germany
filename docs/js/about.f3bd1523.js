@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkhow_in_germany"]=self["webpackChunkhow_in_germany"]||[]).push([[443],{4007:function(n,a,e){e.r(a),e.d(a,{default:function(){return f}});var r=e(3396);const u={class:"about"},t=(0,r._)("h1",null,"This is an about page",-1),s=[t];function i(n,a){return(0,r.wg)(),(0,r.iD)("div",u,s)}var c=e(89);const o={},h=(0,c.Z)(o,[["render",i]]);var f=h}}]);
+//# sourceMappingURL=about.f3bd1523.js.map
